@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 b {
-    color: orange;
+    color: white;
     text-shadow: 1px 1px 1px #000000;
 }
 
@@ -10,7 +10,7 @@ b {
     font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
-    font-family: Montserrat;
+    font-family: Candara;
     display: block;
     margin-top: 15px;
 }
@@ -29,8 +29,8 @@ b {
     transition: all .3s;
 }
 .single-blocks-services:hover .btn i{
-    background: orange;
-    border: 2px solid orange;
+    background: #FFFF32;
+    border: 2px solid #FFFF32;
 }
 .single-blocks-services:hover{
     box-shadow: 0 4px 8px 0 rgba(245, 1, 1, 0.2), 0 6px 20px 0 rgba(236, 4, 4, 0.19);
@@ -60,7 +60,7 @@ b {
 }
 
 .button1:hover {
-    background-color: orange ;
+    background-color: #FFFF32 ;
     color: white;
 }
 /*end button*/
